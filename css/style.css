@@ -44,10 +44,33 @@ header{
 }
 /* /Fine parte CSS del Header */
 
+/* Inizio section big pink square */
+.pink-squere-part{
+    background-color: blue;
+    padding: 30px; 
+    border-bottom: 2px solid lightblue;
+}
+
+.squere-pink{
+    margin: 0 auto;
+    min-width: 700px;
+    min-height: 300px;
+    background-color: rgb(247, 69, 224);
+    border: 1px solid yellow;
+}
+
+
+
+
+
+
 
 
 
 /* DEBUG */
+
+
+
 
 
 
