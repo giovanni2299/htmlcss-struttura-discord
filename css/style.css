@@ -5,12 +5,51 @@
 }
 /* RESET */
 
+/* Inizio CSS del Header */
+header{
+    background-color: lightblue;
+    padding: 20px; 
+}
 
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.row{
+    display: flex;
+    justify-content:space-between;
+}
+
+.logo-top{
+    flex-grow: 1;
+    padding: 10px;
+}
+
+.links{
+    flex-grow: 1;
+    text-align: center;
+    padding: 10px;
+}
+
+.login{
+    flex-grow: 1;
+    text-align: right;
+    padding: 10px;
+}
+
+[class^="col"]{
+    background-color: orange;
+    border: 1px solid black;
+}
+/* /Fine parte CSS del Header */
 
 
 
 
 /* DEBUG */
-.debug>header{
-    background-color: lightblue;
-}
+
+
+
+
+
