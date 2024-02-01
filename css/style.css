@@ -89,6 +89,25 @@ header{
 .row.row-gray{
     flex-direction: row-reverse;
 }
+/* /Fine section grey-dobule-squere */
+
+/* Inizio section big-squere-green */
+.big-squere-green{
+    background-color: grey;
+    padding: 30px;
+}
+
+.big-green{
+    margin: 0 auto;
+    background-color: green;
+    border: 1px solid black;
+    height: 500px;
+    width:800px;
+    flex-grow: 1;
+}
+/* /Fine section big-square-green */
+
+
 
 
 
