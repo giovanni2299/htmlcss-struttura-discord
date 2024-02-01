@@ -89,7 +89,7 @@ header{
     padding: 30px;
 }
 
-.row.row-gray{
+.row.row-reverse{
     flex-direction: row-reverse;
 }
 /* /Fine section grey-dobule-squere */
@@ -131,9 +131,9 @@ header{
     flex-grow: 2;
     background-color: salmon;
 }
+/* /Fine section black-background top */
 
-
-/* DEBUG */
+/* Inizio Footer part */
 footer{
     border-top: 1px solid white;
     border-bottom: 1px solid white;
@@ -161,7 +161,7 @@ footer{
     background-color: salmon;
     border: 1px solid white;
 }
-
+/* /Fine Footer part */
 
 
 
