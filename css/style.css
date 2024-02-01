@@ -80,10 +80,20 @@ header{
 }
 /* /Fine section white-dobule-squere */
 
+/* Inizio section grey-dobule-squere */
+.grey-dobule-squere{
+    background-color: gray;
+    padding: 30px;
+}
+
+.row.row-gray{
+    flex-direction: row-reverse;
+}
 
 
 
 /* DEBUG */
+
 
 
 
